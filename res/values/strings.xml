@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegisterPage</string>
+    <string name="app_title">注册信息</string>
+    <string name="app_desc">请输入注册信息</string>
+    <string name="reg_name">用户名:</string>
+    <string name="reg_pw">密码:</string>
+    <string name="reg_sex">性别:</string>
+    <string name="sex_male">男</string>
+    <string name="sex_female">女</string>
+    <string name="reg_btn">注册</string>
+</resources>
